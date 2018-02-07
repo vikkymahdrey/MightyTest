@@ -113,7 +113,7 @@ public class RedirectedSpotifyAccess extends HttpServlet {
 			}
 			in.close();
 
-			//print result
+			//print resultt
 			System.out.println(response.toString());
 
 	    }
